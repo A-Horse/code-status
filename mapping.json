@@ -1,0 +1,12 @@
+{
+    "javascript": ["js", "jsx"],
+    "coffeescript": ["coffee"],
+    "typescript": ["ts"],
+    "html": ["html"],
+    "css": ["css"],
+    "c": ["c"],
+    "cpp": ["cpp"],
+    "scss": ["scss"],
+    "python": ["py"],
+    "java": ["java"]
+}
